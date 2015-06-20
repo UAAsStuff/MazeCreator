@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Proyecto laberintos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proyecto_laberintos_jar</output-path>
+    <root id="archive" name="Proyecto laberintos.jar">
+      <element id="module-output" name="Proyecto laberintos" />
+    </root>
+  </artifact>
+</component>
